@@ -55,9 +55,20 @@ This project implements a Rule Engine system that determines user eligibility ba
 
 4. **Start the server:**
    ```bash
-   npm start
+   cd server
+   ```
+   ```bash
+   nodemon app.js
    ```
    The server will run on `http://localhost:5000`.
+
+5. **Start Frontend:**
+   ```bash
+   cd client
+   ```
+   ```bash
+   npm run dev
+   ```
 
 ---
 

@@ -1,24 +1,30 @@
-/* client/src/components/RuleEngine.css */
 body {
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
-    background-color: #f4f4f9;
-    color: #424141;
+    background-color: #0000;
+    color: #f6f5f5;
+    justify-content: center;
 }
 
 .container {
     max-width: 600px;
     margin: 20px auto;
     padding: 15px;
-    background-color: #fff;
+    background-color: #272525;
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
     border-radius: 8px;
 }
 
 h1, h2 {
     text-align: center;
-    color: #4c4faf;
+    color: #3B1E54;
+    font-size: 20px;
+color: #fff;
+text-align: center;
+-webkit-animation: glow 1s ease-in-out infinite alternate;
+-moz-animation: glow 1s ease-in-out infinite alternate;
+animation: glow 1s ease-in-out infinite alternate;
 }
 
 form div, form label {

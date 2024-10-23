@@ -5,6 +5,9 @@
 
 This project implements a Rule Engine system that determines user eligibility based on attributes such as age, department, income, and spend. The engine utilizes an Abstract Syntax Tree (AST) to represent conditional rules, allowing dynamic creation, combination, and modification of these rules.
 
+![plot](./img/1.png)
+![plot](./img/2.png)
+
 ### Features
 
 - **Rule Creation:** Create dynamic rules with conditions on various attributes.
